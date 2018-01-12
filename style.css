@@ -1,0 +1,100 @@
+.mlh{
+    width: 125px;
+    height: 175px;
+    padding-left: 25px;
+}
+
+.hv{
+    width: 425px;
+    height: 450px;
+}
+
+
+.time{
+    padding-left: 400px;
+}
+
+
+.wrapper{
+    text-align: center;
+}
+
+h3{
+    font-size: 12pt;
+    text-align: center;
+}
+
+body{
+    background: radial-gradient(white, red);
+    height: 100%;
+    width: 100%;
+}
+
+.nav-item{
+    color: white;
+}
+
+.hv, .mlh{
+    opacity: .90;
+}
+
+h3{
+    font-weight: bold;
+}
+
+ol{
+    list-style: none;
+}
+
+h1, h2, h4{
+    text-align: center;
+}
+
+.btn{
+    min-width: 250px;
+    height: 60px;
+}
+
+#infoHackVersity, #sponsorList, #contact{
+    border-top: 5px dotted white;
+}
+
+#formsRegister, #sponsorLists{
+    border-bottom: 5px dotted white;
+}
+
+
+#forsmRegister{
+    height: 3000px;
+}
+
+#googleForm{
+    text-align: center;
+}
+
+#formReg{
+    text-align: center;
+}
+
+.socialMediaImages{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+#socialMedia{
+    text-align: center;
+}
+
+#questions{
+    text-align: center;
+}
+
+.aboutHackVersity{
+    padding: 50px;
+}
+
+.footerInfo{
+    text-align: center;
+}
+
