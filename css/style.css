@@ -9,11 +9,9 @@
     height: 450px;
 }
 
-
 .time{
     padding-left: 400px;
 }
-
 
 .wrapper{
     text-align: center;
@@ -62,7 +60,6 @@ h1, h2, h4{
 #formsRegister, #sponsorLists{
     border-bottom: 5px dotted white;
 }
-
 
 #forsmRegister{
     height: 3000px;
