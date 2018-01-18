@@ -9,9 +9,11 @@
     height: 450px;
 }
 
+
 .time{
     padding-left: 400px;
 }
+
 
 .wrapper{
     text-align: center;
@@ -61,6 +63,7 @@ h1, h2, h4{
     border-bottom: 5px dotted white;
 }
 
+
 #forsmRegister{
     height: 3000px;
 }
@@ -95,3 +98,15 @@ h1, h2, h4{
     text-align: center;
 }
 
+#org{
+    border-top: 5px dotted white;
+}
+
+.organizers{
+    text-align: center;       
+}
+
+.orgImg{
+    border-radius: 50%;
+    vertical-align: top;
+}
